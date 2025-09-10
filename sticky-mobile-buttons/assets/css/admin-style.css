@@ -1,0 +1,124 @@
+.smb-button-settings {
+    background: #f9f9f9;
+    padding: 15px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.smb-button-settings label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.smb-button-settings input[type="text"],
+.smb-button-settings select {
+    width: 100%;
+    max-width: 400px;
+    margin-bottom: 10px;
+}
+
+.smb-icon-preview {
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: middle;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.smb-icon-select {
+    width: 200px !important;
+}
+
+.smb-custom-icon-preview img {
+    max-width: 50px;
+    max-height: 50px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.smb-custom-icon-upload .button {
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.smb-color-field {
+    width: 100px !important;
+}
+
+/* Стили для иконок в выпадающем списке */
+.smb-icon-select option {
+    padding: 5px;
+}
+
+.smb-icon-select option:before {
+    content: attr(data-icon);
+    font-family: 'Font Awesome 6 Free';
+    margin-right: 5px;
+}
+.smb-button-settings {
+    background: #f9f9f9;
+    padding: 15px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.smb-button-settings label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.smb-button-settings input[type="text"],
+.smb-button-settings select {
+    width: 100%;
+    max-width: 400px;
+    margin-bottom: 10px;
+}
+
+.smb-icon-preview {
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: middle;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.smb-icon-select {
+    width: 200px !important;
+}
+
+.smb-custom-icon-preview img {
+    max-width: 50px;
+    max-height: 50px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.smb-custom-icon-upload .button {
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.smb-color-field {
+    width: 100px !important;
+}
+
+/* Стили для иконок в выпадающем списке */
+.smb-icon-select option {
+    padding: 5px;
+}
+
+.smb-icon-select option:before {
+    content: attr(data-icon);
+    font-family: 'Font Awesome 6 Free';
+    margin-right: 5px;
+}

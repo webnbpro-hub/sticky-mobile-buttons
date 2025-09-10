@@ -1,0 +1,152 @@
+# Copyright (C) 2025 Webnbpro
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Sticky Mobile Buttons 3.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-15 12:00+0300\n"
+"PO-Revision-Date: 2023-11-15 12:00+0300\n"
+"Last-Translator: Webnbpro <your.email@example.com>\n"
+"Language-Team: Russian <your.team@example.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: sticky-mobile-buttons.php:12
+msgid "Sticky Mobile Buttons"
+msgstr "Стики мобильные кнопки"
+
+#: sticky-mobile-buttons.php:13
+msgid "Adds customizable sticky buttons for mobile devices"
+msgstr "Добавляет настраиваемые стики-кнопки для мобильных устройств"
+
+#: admin/class-smb-admin.php:45
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: admin/class-smb-admin.php:50
+msgid "Number of Buttons"
+msgstr "Количество кнопок"
+
+#: admin/class-smb-admin.php:55
+msgid "Show Text"
+msgstr "Показывать текст"
+
+#: admin/class-smb-admin.php:60
+msgid "Icon Size (px)"
+msgstr "Размер иконки (px)"
+
+#: admin/class-smb-admin.php:65
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: admin/class-smb-admin.php:70
+msgid "Buttons Settings"
+msgstr "Настройки кнопок"
+
+#: admin/class-smb-admin.php:75
+msgid "Button Type:"
+msgstr "Тип кнопки:"
+
+#: admin/class-smb-admin.php:80
+msgctxt "Button type"
+msgid "Phone"
+msgstr "Телефон"
+
+#: admin/class-smb-admin.php:85
+msgctxt "Button type"
+msgid "Telegram"
+msgstr "Телеграм"
+
+#: admin/class-smb-admin.php:90
+msgctxt "Button type"
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: admin/class-smb-admin.php:95
+msgctxt "Button type"
+msgid "Cart"
+msgstr "Корзина"
+
+#: admin/class-smb-admin.php:100
+msgctxt "Button type"
+msgid "Custom"
+msgstr "Произвольная"
+
+#: admin/class-smb-admin.php:105
+msgid "Button Text:"
+msgstr "Текст кнопки:"
+
+#: admin/class-smb-admin.php:110
+msgid "Phone Number:"
+msgstr "Номер телефона:"
+
+#: admin/class-smb-admin.php:115
+msgid "Telegram Username:"
+msgstr "Имя пользователя Telegram:"
+
+#: admin/class-smb-admin.php:120
+msgid "WhatsApp Number:"
+msgstr "Номер WhatsApp:"
+
+#: admin/class-smb-admin.php:125
+msgid "Cart URL (leave empty for default):"
+msgstr "URL корзины (оставьте пустым для значения по умолчанию):"
+
+#: admin/class-smb-admin.php:130
+msgid "Link URL:"
+msgstr "URL ссылки:"
+
+#: admin/class-smb-admin.php:135
+msgid "Icon Type:"
+msgstr "Тип иконки:"
+
+#: admin/class-smb-admin.php:140
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: admin/class-smb-admin.php:145
+msgid "Custom Image"
+msgstr "Своё изображение"
+
+#: admin/class-smb-admin.php:150
+msgid "Select Icon:"
+msgstr "Выберите иконку:"
+
+#: admin/class-smb-admin.php:155
+msgid "Custom Icon:"
+msgstr "Своя иконка:"
+
+#: admin/class-smb-admin.php:160
+msgid "Upload Icon"
+msgstr "Загрузить иконку"
+
+#: admin/class-smb-admin.php:165
+msgid "Remove Icon"
+msgstr "Удалить иконку"
+
+#: admin/class-smb-admin.php:170
+msgid "Icon Color:"
+msgstr "Цвет иконки:"
+
+#: includes/class-smb-frontend.php:45
+msgid "Call"
+msgstr "Позвонить"
+
+#: includes/class-smb-frontend.php:50
+msgid "Telegram"
+msgstr "Телеграм"
+
+#: includes/class-smb-frontend.php:55
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: includes/class-smb-frontend.php:60
+msgid "Cart"
+msgstr "Корзина"
